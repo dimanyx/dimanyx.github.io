@@ -5,7 +5,7 @@
 }
 body {
   font-family: "CaskaydiaCove Nerd Font", monospace;
-  background: #24273a;
+  background: #1e1e2e;
   color: #c9d1d9;
   max-width: 680px;
   margin: 0 auto;
@@ -129,7 +129,7 @@ section ul li a {
 }
 section ul li a:hover {
   background: #b4befe;
-  color: #24273a;
+  color: #1e1e2e;
 }
 
 .warning-banner {

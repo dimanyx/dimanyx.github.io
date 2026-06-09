@@ -32,7 +32,7 @@ a:hover {
 section {
         padding: 12px;
         margin-bottom: 8px;
-        border: 4px solid #b4befe;
+        border: 4px solid #89b4fa;
         border-radius: 16px;
 }
 
@@ -76,7 +76,7 @@ li {
 }
 
 .friend-card {
-        border: 4px solid #b4befe;
+        border: 4px solid #89b4fa;
         border-radius: 16px;
 	padding: 1rem;
         margin-top: 0.5rem;
@@ -107,12 +107,6 @@ hr {
         .webring {
           	gap: 1rem;
           	font-size: 0.85rem;
-        }
-        img {
-          	border: 2px solid #EED49F;
-          	border-radius: 16px;
-          	width: 36px;
-          	height: 36px;
         }
 }
 
@@ -147,17 +141,4 @@ section ul li a {
 section ul li a:hover {
         background: #b4befe;
 	color: #1e1e2e;
-}
-
-.warning-banner {
-        background: transparent;
-        color: #cad3f5;
-        padding: 0.75rem 1rem;
-        border: 4px solid #89b4fa;
-        border-radius: 16px;
-        margin-bottom: 1rem;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        font-weight: bold;
 }
